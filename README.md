@@ -6,6 +6,7 @@ This application was generated using JHipster 7.8.1, you can find documentation 
 MI COMMIT 
 
 commit 2 karen
+commit vladimir
 
 Node is required for generation and recommended for development. `package.json` is always generated for a better development experience with prettier, commit hooks, scripts and so on.
 
