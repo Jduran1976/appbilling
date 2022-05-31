@@ -33,7 +33,7 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     url: jdbc:postgresql://appbilling-basedatos.postgres.database.azure.com:5432/appbilling
-    username: postgres
+    username: appbilling
     password: Vl448056*
     hikari:
       poolName: Hikari
